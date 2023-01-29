@@ -1,5 +1,6 @@
 import sys
 
+from PyQt5 import QtGui
 from PyQt5.QtWidgets import (QApplication, QGridLayout, QLineEdit, QMainWindow,
                              QPushButton, QSizePolicy, QWidget)
 
@@ -9,6 +10,7 @@ class Calculadora(QMainWindow):
         super().__init__(parent)
         self.setWindowTitle('Calculadora')
         self.setFixedSize(400, 400)
+        self.setWindowIcon(QtGui.QIcon('./images/fav-menor.png'))
         self.central_Widget = QWidget()
         self.grid = QGridLayout(self.central_Widget)
 

@@ -9,7 +9,7 @@ calculadora digital.</p>
 Imagem do projeto
 </h2>
 
-![imagem_calculadora](./images/image1.png)
+![imagem_calculadora](./images/image_project.png)
 
 </div>
 
