@@ -1,7 +1,7 @@
 <h1>Calculadora</h1>
 
 <p>Aplicação básica de python com Qt5 para criação de app's, neste caso uma
-calculadora digital</p>
+calculadora digital.</p>
 
 <div align=center>
 
@@ -31,4 +31,4 @@ Para utilizar a aplicação basta instalar o módulo pyqt5 com o seguinte comand
 pip install pyqt5
 ```
 
-<p>Obs.: Recomendo que crie um ambiente virtual em sua máquina</p>
+<p>Obs.: Recomendo que crie um ambiente virtual em sua máquina.</p>
